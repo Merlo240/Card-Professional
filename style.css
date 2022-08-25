@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+body{
+    background-color: #14191E;
+}
+/* .borders{
+    border: 1px solid red;
+} */
+
+.fondo-card{
+    background-color: #1F282F;
+}
+
+.fondo-body{
+    background-color: #31383d;
+}
+
+.skills{
+    background-color: #0db692;
+}
+.verificado {
+    color:#0a705a
+}
+.social-icons a i:hover {
+    color:#0a705a
+}
